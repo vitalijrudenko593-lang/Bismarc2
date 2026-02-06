@@ -1,0 +1,1 @@
+print(f"Hello {2+2} ticher")
