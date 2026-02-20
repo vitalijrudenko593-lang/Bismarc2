@@ -1,1 +1,2 @@
-print(f"Hello {2+2} ticher")
+print(f"Hello {2+2} "
+      f"ticher")
